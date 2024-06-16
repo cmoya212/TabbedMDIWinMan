@@ -11,7 +11,7 @@ MDIWindowManager is a control that can be added to your MDI Parent forms to achi
 - **[Documentation](https://1drv.ms/w/s!AtUuwRmVvmd4g75JxWunqL6y38xnNQ?e=xM7Iac)**
 - **[Object Model](http://www.simonaplanner.com/cflashSoft/progs/mdiwinman/Doc/)**
 ## Download
-- **[DLL - MdiWinMan.zip](http://www.simonaplanner.com/cflashSoft/progs/mdiwinman/MdiWinMan.zip)**
+- **[DLL - MdiWinMan.zip](http://www.simonaplanner.com/cflashSoft/progs/mdiwinman/)**
 (See readme for instructions)
 ### Source Code
 https://github.com/cmoya212/TabbedMDIWinMan
