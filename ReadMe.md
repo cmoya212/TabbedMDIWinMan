@@ -10,9 +10,9 @@ MDIWindowManager is a control that can be added to your MDI Parent forms to achi
 - Built-in "Windows" menu that can be cloned and added to your parent form. Furthermore, since MDI Children are still MDI Children under the scenes, there is full support for menu merging.
 ## Documentation
 - **[Documentation](https://1drv.ms/w/s!AtUuwRmVvmd4g75JxWunqL6y38xnNQ?e=xM7Iac)**
-- **[Object Model](http://www.simonaplanner.com/cflashSoft/progs/mdiwinman/Doc/)**
+- **[Object Model](http://riverfront.solutions/cmoya/cflashSoft/progs/mdiwinman/Doc/)**
 ## Download
-- **[DLL - MdiWinMan.zip](http://www.simonaplanner.com/cflashSoft/progs/mdiwinman/)**
+- **[DLL - MdiWinMan.zip](http://riverfront.solutions/cmoya/cflashSoft/progs/mdiwinman/)**
 (See readme for instructions)
 ### Source Code
 https://github.com/cmoya212/TabbedMDIWinMan
