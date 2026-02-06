@@ -1,5 +1,8 @@
 # Tabbed MDI Window Manager For WinForms
-**\*\*\*NOTE: This is a legacy project and not actively maintained. It was formerly maintained in Codeplex and has been moved here in case it helps any developers using WinForms and building multi-window applications.\*\*\***
+**\*\*\*NOTE: This is a legacy .NET Fx 3.5 project and not actively maintained. It was formerly maintained in Codeplex and has been moved here in case it helps any developers using WinForms and building multi-window applications.\*\*\***
+
+*.NET9 port with compatibilities fixes and WPF support [here](https://github.com/cmoya212/MDIWindowManager2).*
+
 ## Overview
 MDIWindowManager is a control that can be added to your MDI Parent forms to achieve the Tabbed Document Interface (TDI) seen in many modern applications.
 - No code changes required. Just plop the control on your MDI parent and everything is taken care at runtime. There is no complex "framework" locking you into a particular technology... windows do not need to derive from some base class and no code changes need to be done on either the child windows or in your MDI child loading code.
